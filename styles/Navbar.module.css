@@ -1,0 +1,8 @@
+.navbar{
+    border: 1px solid grey;
+    padding: 0.3rem;
+    width: 70%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+}
