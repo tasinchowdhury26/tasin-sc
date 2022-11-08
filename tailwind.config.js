@@ -12,6 +12,7 @@ module.exports = {
     extend: {
       fontFamily: {
         burtons: "burtons",
+        prestige: "prestige"
       },
       animation: {
         "fade-in": "animation: fadeIn 5s infinite",

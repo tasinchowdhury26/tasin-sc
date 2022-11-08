@@ -7,3 +7,8 @@
     font-family: 'burtons';
     src: url('../public/Burtons.otf');
 }
+
+@font-face {
+    font-family: 'prestige';
+    src: url('../public/PrestigeEliteStd\ Bd.otf');
+}
